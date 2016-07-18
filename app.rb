@@ -1,5 +1,5 @@
 require 'json'
-require 'poke-api'
+require 'pokegem'
 require 'pry'
 
 require_relative 'pokemon'
