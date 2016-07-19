@@ -1,0 +1,18 @@
+[
+  "Vulpix",
+  "Vaporeon",
+  "Arcanine",
+  "Lapras",
+  "Lugia",
+  "Umbreon",
+  "Espeon",
+  "Houndoom",
+  "Houndour",
+  "Unown",
+  "Marill",
+  "Azumarill",
+  "Chinchou",
+  "Lanturn",
+  "Skarmory",
+  "Suicune"
+]
